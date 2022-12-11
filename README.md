@@ -1,2 +1,2 @@
 # Codetantra-Solutions-
-Pythonn solutions
+Python solutions

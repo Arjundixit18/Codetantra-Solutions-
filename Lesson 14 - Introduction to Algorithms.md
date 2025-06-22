@@ -19,7 +19,7 @@
 
 ----------------
 
-##🧠 Explanation (Layman Terms): Think of solving a problem like following a recipe:
+🧠 Explanation (Layman Terms): Think of solving a problem like following a recipe:
 
 First, understand what dish you want (problem definition).
 

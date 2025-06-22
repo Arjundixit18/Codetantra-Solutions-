@@ -17,8 +17,9 @@
 
 ✅ Algorithms,Flowcharts, Pseudo Code and Programs are the techniques used to solve a problem.
 
+----------------
 
-🧠 Explanation (Layman Terms): Think of solving a problem like following a recipe:
+#🧠 Explanation (Layman Terms): Think of solving a problem like following a recipe:
 
 First, understand what dish you want (problem definition).
 
@@ -26,6 +27,7 @@ Then gather tools like flowcharts and algorithms (recipe steps).
 
 Pie charts are for data visualization, not steps in solving problems!
 
+----------------
 
 ## Q2
 
@@ -37,11 +39,15 @@ Pie charts are for data visualization, not steps in solving problems!
 
 ✅ After a finite number of steps an algorithm must reach an end state.
 
+----------------
+
 🧠 Explanation: An algorithm is just a clear step-by-step instruction — like how to make a sandwich:
 
 Take bread → add peanut butter → add jelly → put the top bread.
 
 There can be many ways to make a sandwich — similarly, multiple algorithms can solve the same problem.
+
+----------------
 
 ## Q3
 
@@ -53,12 +59,17 @@ There can be many ways to make a sandwich — similarly, multiple algorithms can
 
 ◻︎ The quality of an algorithm is determined by the person who wrote it.
 
+----------------
+
+
+
 🧠 Explanation: Good algorithms are like smart shortcuts:
 
 Use less memory, run faster, and give the correct answer.
 
 It’s not about who writes it, but how efficiently it runs.
 
+----------------
 
 ## Q4
 
@@ -89,6 +100,9 @@ The program checks if the input is positive before converting.
 Example:
 Enter distance in miles: 10
 10 miles = 16.09 kilometers
+
+----------------
+
 
 ## Q5
 
